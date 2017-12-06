@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">FragmentTutorial</string>
+  <string name="text_from_static_fragment">Hello from static fragment</string>
+  <string name="hello">HELLO WORLD, CLICK ME!</string>
+</resources>
